@@ -1,3 +1,2 @@
 # My website.
-
-Made with hyde jekyll. If you ask me about my configs I probably forgot.
+This website is a repository of all my thoughts
