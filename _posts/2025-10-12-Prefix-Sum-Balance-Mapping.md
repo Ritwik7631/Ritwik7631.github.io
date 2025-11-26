@@ -133,4 +133,7 @@ public:
 
 Thinking about like buckets really helped!
 
+Here is a problem that I encountered where I used the above technique to solve it:
+[Find Maximum Balanced XOR Subarray Length](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/description/)
+
 <script src="https://utteranc.es/client.js" repo="Ritwik7631/Ritwik7631.github.io" issue-term="pathname" theme="github-light" crossorigin="anonymous" async> </script>
